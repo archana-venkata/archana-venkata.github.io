@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate in Computer Science at [The University of Melbourne](https://cis.unimelb.edu.au/people/students/archana-vadakattu). I am working in the Department of Computing and Information Systems, specifically in the /[AI and Autonomy Lab](https://cis.unimelb.edu.au/agentlab#about). 
+I am a Ph.D. candidate in Computer Science at [The University of Melbourne](https://cis.unimelb.edu.au/people/students/archana-vadakattu). I am working in the Department of Computing and Information Systems, specifically in the [AI and Autonomy Lab](https://cis.unimelb.edu.au/agentlab#about). 
 
 My research focusses on cognitive approaches to achieving transfer learning, and ultimately lifelong learning, in AI agent systems. More specifically, my Ph.D. topic is about leveraging the human cognitive ability to develop strategies in different contexts to make plausible default assumptions in unfamiliar environments. 
 
