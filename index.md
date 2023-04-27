@@ -8,15 +8,13 @@ I am a Ph.D. student in Computer Science at [The University of Melbourne](https:
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Cognitive AI:** adaptive agents, human computer interaction
+- **Machine Learning:** transfer learning, reinforcement learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Mar. 2023]** Our paper about strategy extraction is accepted to the ALA 2023 workshop.
+- **[Mar. 2023]** I will be attending the Autonomous Agents and Multiagent Systems 2023 conference in London, UK!
 
 {% include_relative _includes/publications.md %}
 
