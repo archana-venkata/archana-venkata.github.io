@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Strategy Extraction in Single-agent Games</a></div>
+    <div class="title"><a href="https://alaworkshop2023.github.io/#accepted">Strategy Extraction in Single-agent Games</a></div>
     <div class="author"><strong>Archana Vadakattu</strong>, Michelle Blom, Adrian R. Pearce</div>
     <div class="periodical"><em>Proceedings of the Adaptive and Learning Agents Workshop<strong>(ALA)</strong>, 2023.</em></div>
     <!-- <div class="links">
