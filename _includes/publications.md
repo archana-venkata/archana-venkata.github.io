@@ -16,7 +16,7 @@
     <div class="author"><strong>Archana Vadakattu</strong>, Michelle Blom, Adrian R. Pearce</div>
     <div class="periodical"><em>Proceedings of the Adaptive and Learning Agents Workshop <strong>(ALA)</strong>, 2023.</em></div>
     <div class="links">
-      <a href="https://alaworkshop2023.github.io/papers/ALA2023_paper_35.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="http://arxiv.org/abs/2305.12623" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
