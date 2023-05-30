@@ -34,14 +34,14 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://aamas2023.soton.ac.uk/program/accepted-papers/#dc-track"> Strategy Extraction for Transfer in AI Agents: Doctoral Consortium</a></div>
     <div class="author"><strong>Archana Vadakattu</strong></div>
-    <div class="periodical"><em>Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems <strong>(AAMAS)</strong>, 2023.</em></div>
-    <!-- <div class="links">
-      <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    <div class="periodical"><em>(To appear in) Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems <strong>(AAMAS)</strong>, 2023.</em></div>
+    <div class="links">
+      <a href="assets/files/dc_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF (Poster)</a>
+      <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-    </div> -->
+      <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <strong><i style="color:#e74d3c">Extended Abstract</i></strong>
+    </div>
   </div>
 </div>
 </li>
